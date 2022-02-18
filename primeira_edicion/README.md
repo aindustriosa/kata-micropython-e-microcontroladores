@@ -31,6 +31,7 @@ por grupo pero podedes traballar en paralelo se o preferides.
 2. Actualizar o firmware da placa e probar Micropython.
 
 3. Empezaremos a traballar co obxectivo de ler do sensor e mostrar na pantalla os valores.
+  [Mapa de conexións do sensor BM280](./recursos/bm280_connectivity_map.jpg)
 
 4. Unha vez finalizado o punto anterior, e de maneira optativa, enviar unha pull request co noso
 proxecto asignando un nome o equipo.
