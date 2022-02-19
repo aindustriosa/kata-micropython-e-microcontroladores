@@ -51,6 +51,7 @@ while True:
     oled.text(str4,0,50)
     oled.show()
     temp,press,hum=bme.read_compensated_data()
+    press=press/100 #convert to hPa
     print (temp)
     data = [
             {"variable": "temperature",
