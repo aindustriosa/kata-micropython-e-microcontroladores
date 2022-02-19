@@ -5,3 +5,5 @@ Exemplo desenvolvido na primeira edición da Kata:
 - Envío dos valores a tago.io (plataforma IoT cloud)
 
 As variables "sensibles" defínense no arquivo env_var.py 
+
+A conexión WiFi falla de forma sistemática no primeiro intento de establecemento. Pendente de revisar e corrixir.
