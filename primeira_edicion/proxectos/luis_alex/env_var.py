@@ -1,5 +1,5 @@
 url = 'https://api.tago.io/data'
-headers = {'Device-Token': '',
+headers = {'Device-Token': '<yourToken>',
            'Content-Type': 'application/json'}
-SSID = ""
-PASS = ""
+SSID = "<yourSSID>"
+PASS = "<yourPASS>"
