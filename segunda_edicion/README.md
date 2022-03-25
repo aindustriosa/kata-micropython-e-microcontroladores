@@ -12,6 +12,16 @@ Wifi e unha pequena pantalla OLED.
 
 * [TTGO ESP32 LoRa](https://makeradvisor.com/esp32-sx1276-lora-ssd1306-oled/)
 * Pulsadores, LEDs e compoñentes pasivos
+### Servizos na nube
+
+O servizos suxeridos a elexir nesta sesión:
+
+* [Supabase](https://supabase.com/): Open Source backend na nube similar o famoso Firebase.
+* [MQTT](https://mqtt.org/): Protocolo pub/sub moi común en IoT que permite a integración con servizos como o
+Home Assistants.
+* [Tago.io](https://tago.io/): SASS donde capturar los datos que ofrece además Dashboards,
+analítica o notificaciones.
+
 
 ## Entorno de traballo
 
